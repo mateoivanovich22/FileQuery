@@ -10,7 +10,7 @@ For the application to process the CSV file correctly, ensure it follows a struc
 <summary>Click to Expand CSV File Example</summary>
 
 ```csv
-Nombre,País,Estadio,Capacidad,Fundación,Títulos de Liga,Títulos de Champions League
+Name,Country,Stadium,Capacity,Fundation,League Titles,Champions League
 Real Madrid,España,Santiago Bernabéu,81044,1902,34,13
 FC Barcelona,España,Camp Nou,99354,1899,26,5
 Manchester United,England,Old Trafford,74879,1878,20,3

@@ -19,6 +19,10 @@ Manchester United,England,Old Trafford,74879,1878,20,3
 </details>
 The first line should contain the categories (headers) representing the information to be queried.
 
+## Demo
+
+Here is a live demo of the website: [Live Demo](https://file-query.onrender.com/)
+
 ## Features
 
 - **File Upload:** Upload .csv files containing various data categories.

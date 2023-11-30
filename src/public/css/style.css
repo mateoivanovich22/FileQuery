@@ -614,3 +614,154 @@ footer{
   padding: 11px;
   margin: 16px;
 }
+
+
+
+
+
+@media (max-width: 1337px){
+  .howToUse h3 {
+    font-size: 25px;
+  }
+}
+
+
+
+@media (max-width: 706px){
+  .howToUse h3 {
+    font-size: 16px;
+  }
+
+  .card {
+    width: 57%;
+    height: 90%;
+    background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+    border-radius: 20px;
+    transition: all .3s;
+    margin: 10px;
+  }
+
+  .howToUse {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    width: 57%;
+    height: 15%;
+    border-radius: 10px;
+    margin: 10px;
+  }
+
+  .team {
+    font-size: 17px;
+    padding: 8px;
+    margin: 12px;
+  }
+
+  .teams-list h2 {
+    font-size: 35px;
+    margin: 20px;
+  }
+
+  .categories-container {
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 5px;
+    height: 55vh;
+  }
+}
+
+
+
+@media (max-width: 340px){
+  .insertFile{
+    height: 80vh;
+  }
+
+  .howToUse {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    width: 83%;
+    height: 15%;
+    border-radius: 10px;
+    margin: 10px;
+  }
+
+  .howToUse h3 {
+    font-size: 18px;
+    margin: 2px;
+  }
+
+  .card {
+    width: 82%;
+    height: 65%;
+    background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+    border-radius: 20px;
+    transition: all .3s;
+    margin: 10px;
+  }
+
+  .titleCard {
+    color: white;
+    font-size: 32px;
+  }
+
+  .categories-container {
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 5px;
+  }
+
+  .category-list {
+    list-style: none;
+    padding: 0px;
+    margin: 4px;
+  }
+
+  footer {
+    width: 100%;
+    background-color: black;
+    height: 20vh;
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    color: white;
+  }
+
+
+  .teams-list h2 {
+    font-size: 27px;
+    margin: 11px;
+  }
+
+  .team {
+    font-size: 14px;
+    padding: 6px;
+    margin: 6px;
+  }
+
+  .teams-list h2 {
+    font-size: 22px;
+    margin: 10px;
+  }
+
+  .titleHome {
+    color: white;
+    font-size: 49px;
+    text-decoration: underline;
+  }
+}
